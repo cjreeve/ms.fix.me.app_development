@@ -1,7 +1,6 @@
 #admin-content {
 	@include outer-container;
 
-    # changed the background and table colours - cjreeve
 	background-color: #E6FFFF;
 
 	#header {
@@ -36,7 +35,11 @@
 
 	#main-body {
 		padding: 10px;
-		
+		a:link {color:#B85C00;}
+		a:link {text-decoration:none;}
+		a:visited {text-decoration:none;}
+		a:hover {text-decoration:underline;}
+		a:active {text-decoration:underline;}
 		.product-tile {
 			@include span-columns(3);
 			@include nth-omega(4n);
@@ -71,6 +74,17 @@
 
 		table {
 			width: 100%;
+			
+			th {
+				font-size:1.1em;
+				text-align:left;
+				padding:5px 7px 4px 7px;
+				background-color:#A7C942;
+				color:#ffffff;
+			}			
+			td {
+				padding-left:7px;
+			}
 
 			.odd {
 				background-color: #88F7C4;
