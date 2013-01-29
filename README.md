@@ -1,3 +1,27 @@
+**Comment by cjreeve**
+
+Dear Peter,
+
+Thank you for the opportunity for me to take part in this Ruby on Rails development test. I am an experimental particle physicist by training but am keen start a career in web development. My previous programming experience is in C++, Matlab and a little python, and this task will is the first time I have looked at Ruby on Rails and Ruby code.
+
+I have enjoyed the challenge. I regret that I have run out of time so that I cannot make any impressive changes. Much of my time was taken up with setting up the app on my computer. I initially attempted this on my Mac but ran into problems updating Ruby1.8 to 1.9. I eventually had it running on my Linux computer, but being the first time at setting up a server, this also took a little time.
+
+I am becoming familiar with the Rails folder structure but it would be ideal if I spent some time working through the online tutorial manual before attempting major changes.
+Currently I have only played with a little CSS formatting and indicated a couple of ideas I was thinking of implementing.
+
+I would be grateful if you can offer me the opportunity to come in for a chat.
+
+Best regards,
+
+Christopher
+
+cjreeve... at gmail.com
+
+
+
+
+--------------------------
+
 **MsFixMeApp** is a basic Rails 3 app that we'd like you to make some changes to.
 
 The application 'approximates' an eCommerce site. It shows categories and products on the 'front end' and allows
