@@ -1,5 +1,15 @@
-**Comment by cjreeve**
+**Comments by cjreeve**
 
+- update
+I just uploaded an example of the kind of programming work I have been doing to https://github.com/cjreeve/portfolio
+
+I'm sorry it is a bit messy - I seem to have misplaced the final version. If there is time, I shall start working through the RoR tutorial and add further examples to the portfolio. 
+
+C
+
+
+
+------------------------------------------------
 Dear Peter,
 
 Thank you for the opportunity for me to take part in this Ruby on Rails development test. I am an experimental particle physicist by training but am keen start a career in web development. My previous programming experience is in C++, Matlab and a little python, and this task will is the first time I have looked at Ruby on Rails and Ruby code.
@@ -15,7 +25,6 @@ Best regards,
 
 Christopher
 
-cjreeve... at gmail.com
 
 
 
