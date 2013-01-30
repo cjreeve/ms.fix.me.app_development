@@ -1,6 +1,7 @@
 **Comments by cjreeve**
 
 - update
+
 I just uploaded an example of the kind of programming work I have been doing to https://github.com/cjreeve/portfolio
 
 I'm sorry it is a bit messy - I seem to have misplaced the final version. If there is time, I shall start working through the RoR tutorial and add further examples to the portfolio. 
