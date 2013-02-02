@@ -1,6 +1,8 @@
 class Administration::AdministrationController < ApplicationController
 	layout 'administration/application'
 
+	http_basic_authenticate_with :name => "admin", :password => "password"
+
 	def archive
 		@model = params[:klass].constantize.find(params[:id])
 
